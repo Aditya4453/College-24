@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  6 15:51:56 2024
-
-@author: LAB
-"""
-
 num1= int(input("Enter Length(in ft) :"))
 num2= int(input("Enter Width(in ft) :"))
 
