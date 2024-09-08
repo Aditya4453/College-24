@@ -10,7 +10,7 @@ elif shape=="rectangle":
     print("Area of rectangle :",round(area,3))
 elif shape=="circle":
     r=float(input("Enter radius :"))
-    area=2*3.14*r
+    area=3.14*(r**2)
     print("Area of circle :",round(area,3))
 else:
     base=float(input("Enter base :"))
