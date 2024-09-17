@@ -4,5 +4,5 @@ while n>0:
     x=n%2
     string=str(x)+string
     n=n//2
-print(str(n)+string)
+print(string)
     
