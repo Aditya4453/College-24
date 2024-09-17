@@ -4,7 +4,7 @@ y=1
 
 print(y,end=" ")
 
-i=0
+i=1
 while i<(n+1):
     c=x+y #calculation
     print(c,end=" ") #printing fibonnaci of every number
