@@ -1,7 +1,0 @@
-n=int(input("Enter number :"))
-a=n%10 #Here We are Extracting Last digit from the given number by dividing it by 10 and getting remaindr 
-if a%3==0:
-    print("Divisible")
-else:
-    print("not Divisible")
-    
