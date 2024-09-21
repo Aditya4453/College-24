@@ -1,4 +1,6 @@
 print("Multiplication Table")
+print("  |",1 ,2 ,3 ,4 ,5 ,6 ,7 ,8 ,9,sep=" ")
+print("------------------------------")
 i=1
 
 while i<10:
